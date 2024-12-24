@@ -44,9 +44,14 @@ During experiment, I tried to Benchmark the LLM in Bahasa Indonesia. I used copa
 | 25-shots | 52 |
 
 **IndoMMLU**
-| STEM | Social Science | Humanities | Indonesian Language | Local Language and Culture | Average |
-| --- | --- | --- | --- | --- |
-| 25 | 28 | 22 | 27 | 24 | 25.2|
+| Tasks | Result |
+| --- | --- |
+| STEM | 25 |
+| Social Science | 28 |
+| Humanities | 22 |
+| Indonesia Language | 27 |
+| Local Languages and Culture | 24 |
+| Average | 25.2 |
 
 ## Bonus! (yeay)
 There's example for simple RAG use cases using Streamlit for interface. Feel free to try!
