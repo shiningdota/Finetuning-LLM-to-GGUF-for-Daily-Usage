@@ -29,6 +29,7 @@ Also incase if you want to know the computer specs that i used:
 
 ## LLM Benchmark
 During experiment, I tried to Benchmark the LLM in Bahasa Indonesia. I used copal_id with [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) tools, and [IndoMMLU](https://github.com/fajri91/IndoMMLU). Here's the results:
+
 **copal_id_standard = Formal Language**
 | copal_id_standard_multishots | Result |
 | --- | --- |
