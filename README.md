@@ -45,6 +45,7 @@ During experiment, I tried to Benchmark the LLM in Bahasa Indonesia. I used copa
 
 **IndoMMLU**
 | STEM | Social Science | Humanities | Indonesian Language | Local Language and Culture | Average |
+| --- | --- | --- | --- | --- |
 | 25 | 28 | 22 | 27 | 24 | 25.2|
 
 ## Bonus! (yeay)
