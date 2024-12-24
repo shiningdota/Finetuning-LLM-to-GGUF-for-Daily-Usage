@@ -15,11 +15,10 @@ So this project also intended to give some examples that we can use LLM in consu
 2. Use application like LM Studio, AnythingLLM, koboldcpp, etc.
 
 ## Hardware Benchmark
-I make a benchmark for some device. During testing/benchmark, I used [LM Studio](https://lmstudio.ai/) for inference, and using a prompt "Berikan tiga tips untuk tetap sehat". Here's the results:
+I make a benchmark for some device (Remember, results may vary in your hardware!). During testing/benchmark, I used [LM Studio](https://lmstudio.ai/) for inference, and using a prompt "Berikan tiga tips untuk tetap sehat". Here's the results:
 1. GPU1 AMD Radeon RX 6600 (vulkan): 49Token/s
 2. GPU2 Nvidia RTX 3050 4GB Laptop (CUDA): 21.64Token/s
 3. CPU AMD Ryzen 3 3300X @4.45GHz: 11.11Token/s
-Remember, results may vary in your hardware!
 
 Also incase if you want to know the computer specs that i used:
 1. AMD Ryzen 3 3300X @4.45GHz
