@@ -56,3 +56,6 @@ During experiment, I tried to Benchmark the LLM in Bahasa Indonesia. I used copa
 
 ## Bonus! (yeay)
 There's example for simple RAG use cases using Streamlit interface. Feel free to try!
+
+## Big thanks to:
+1. Ali Ar Rasyid (@aliarsyd) for provide me the RTX 3050 4GB Laptop
