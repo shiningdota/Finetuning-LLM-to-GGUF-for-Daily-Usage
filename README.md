@@ -3,6 +3,10 @@ Hello everyone! This repo aims to show that training or finetuning LLM become fa
 - [Unsloth](https://unsloth.ai/)
 - [Llama.cpp](https://github.com/ggerganov/llama.cpp)
 
+`UPDATE`
+
+You can use this model in GGUF format Q8 (8-bit quantized) in my huggingface: [shiningdota/Llama-3.2-3B_Instruct_Indonesian_gguf-test](https://huggingface.co/shiningdota/Llama-3.2-3B_Instruct_Indonesian_gguf-test/tree/main)
+
 ## Finetuning project with Alpaca Instruct in Bahasa Indonesia
 In this project, i tried to finetuning **Llama-3.2-3B-Instruct** with Alpaca + Dolly datasets from [MBZUAI-Bactrian-X](https://huggingface.co/datasets/MBZUAI/Bactrian-X). The train_loss result were pretty good! I used Google Collab for training and used the T4 GPU. I'm also shared the notebook so you guys can try to experiment or messing with the notebook, and there's example for simple RAG use cases using Streamlit interface. Feel free to try!
 
